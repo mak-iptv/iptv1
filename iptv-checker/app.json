@@ -2,11 +2,12 @@
    "name":"Telegram STB-EMU BOT",
    "description":"A telegram bot to check the Xtream Codes Lists",
    "repository":"https://github.com/mak-iptv/iptv1/iptv-checker",
-   "logo":"https://support.upwork.com/hc/article_attachments/360040474034/chatbot-data.png",
+   "logo":"https://github.com/mak-iptv/iptv1/raw/master/iptv-checker/icon.png",
    "keywords":[
       "iptv",
       "xtream-codes",
       "m3u8"
+      "m3u"
    ],
    "env":{
       "TOKEN":{
