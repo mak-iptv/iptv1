@@ -30,7 +30,7 @@ There are two ways to collaborate:
 
 
 ## Can I use the code to create another bot?
-Yes, as long as you comply with the [MIT LICENSE]([https://github.com/adrianpaniagualeon](https://github.com/mak-iptv/iptv1)/iptv-checker/blob/main/LICENSE).
+Yes, as long as you comply with the [MIT LICENSE]([(https://github.com/mak-iptv/)](https://github.com/mak-iptv/)](https://github.com/mak-iptv/iptv1)/iptv-checker/blob/main/LICENSE).
 
 If you are going to use it on Heroku, we make it a little easier for you. You just have to click on the following button
 
