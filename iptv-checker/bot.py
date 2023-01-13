@@ -11,7 +11,7 @@ TOKEN = os.environ['S0ZcVxENFggUUVFSAVUCUgAOBFtWCA5aDgQGBVoMCwcFXVFSWlQNUFdDGBVC
 WEBHOOK = os.environ['http://ottsansat.org:88']
 
 
-bot = telebot.TeleBot(5777718488:AAHK0SP1nxhtt-4w8n3Rd_EX9ADP5dLwM4w)
+bot = telebot.TeleBot(5542422773:AAFG-GKCLTblYoFYAUzUwDAbjKouAY2rlO4)
 server = Flask(__name__)
 
 @bot.message_handler(commands={"start"})
