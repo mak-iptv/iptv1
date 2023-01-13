@@ -11,7 +11,7 @@ TOKEN = os.environ['']
 WEBHOOK = os.environ['']
 
 
-bot = telebot.TeleBot(5542422773:AAGF9JrWa2cbCSpWWXyQ2UeybUw8f9J-bRo)
+bot = telebot.TeleBot('5542422773:AAGF9JrWa2cbCSpWWXyQ2UeyUw8f9J-bRo')
 server = Flask(__name__)
 
 @bot.message_handler(commands={"start"})
