@@ -7,11 +7,11 @@ from datetime import datetime
 import traceback
 
 
-TOKEN = os.environ['S0ZcVxENFggUUVFSAVUCUgAOBFtWCA5aDgQGBVoMCwcFXVFSWlQNUFdDGBVCFkQBAls5CwcTDA8HD1AHThpHElUWa18GRw4QB1cMDwNTAEZPFBILDlQUAwYAUgFUCAdRCVwYFBIMUBAMQwYHCVIHRk8UAxoXVERXVlo6VwdOWwJVRg5YFwlYHhQOWmhVB1sFDVJEWEEBFBUVXxZDQAJcFFwIGBQADEBAVxVRFQtAB1NaD0ROQVJZTFlCF0pAAhAscUYYFAcdQFdYEl1YX0AMRhdFRE5BWEVmRVMWRxBdUwxVFhYMQFUWHhQMVU9uAVkKDVMFFgpeWEoVDEcCQBQQDF8KXUINF2tCXwUWDRNTAlRXBEQf']
-WEBHOOK = os.environ['http://ottsansat.org:88']
+TOKEN = os.environ['']
+WEBHOOK = os.environ['']
 
 
-bot = telebot.TeleBot(5542422773:AAFG-GKCLTblYoFYAUzUwDAbjKouAY2rlO4)
+bot = telebot.TeleBot(5542422773:AAGF9JrWa2cbCSpWWXyQ2UeybUw8f9J-bRo)
 server = Flask(__name__)
 
 @bot.message_handler(commands={"start"})
