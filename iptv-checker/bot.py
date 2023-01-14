@@ -11,7 +11,7 @@ TOKEN = os.environ['']
 WEBHOOK = os.environ['']
 
 
-bot = telebot.TeleBot('5542422773:AAGF9JrWa2cbCSpWWXyQ2UeyUw8f9J-bRo')
+bot = telebot.TeleBot('https://api.telegram.org/bot5922052546:AAHdWCz4H8p8fVeTAjRZPLU-AfDWVajEMSs')
 server = Flask(__name__)
 
 @bot.message_handler(commands={"start"})
